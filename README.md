@@ -1,6 +1,5 @@
 # Calculadora-Semi-automatica-C-PLUS
 
-![cpp.png](cpp.png)
 
 <p align="center">
   <img src="cpp.png">
