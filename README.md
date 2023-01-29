@@ -1,4 +1,4 @@
-# Calculadora-Semi-automatica-C-PLUS
+# Calculadora-CPP
 
 English version  
 
