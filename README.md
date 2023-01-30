@@ -1,6 +1,6 @@
 # Calculadora-CPP
 
-<tEnglish version/t>  
+English version
 
 C++ Calculator: This project is a complete calculator implementation, developed in C++, with basic and advanced functions. It includes basic arithmetic operations such as addition, subtraction, multiplication and division, as well as operations such as square root, exponentiation and percentage calculation. The project has a user-friendly and easy-to-use interface, with input validation to ensure calculation accuracy. In addition, it includes the ability to store and retrieve recent results. This project was developed as a college assignment.
 
